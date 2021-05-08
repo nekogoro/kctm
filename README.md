@@ -12,4 +12,4 @@ Google Spreadsheet での利用を想定していますが、すべての環境�
 
 ## イベントカスタマイズ
 
-* [2021年春イベント](https://github.com/nekogoro/kctm/raw/2021SprintEvent/KanColleTagManagement.ods)
+* [2021年春イベント](https://github.com/nekogoro/kctm/raw/2021SpringEvent/KanColleTagManagement.ods)
